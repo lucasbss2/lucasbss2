@@ -39,7 +39,7 @@
 
   ### 📊 Meu git streak:
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasbss2&theme=dracula&hide_border=true" alt="git streak" />
+    <img src="https://streak-stats.demolab.com?user=lucasbss2&theme=dracula&hide_border=true" alt="git streak" />
   </p>
   
   <div align="center"> 
