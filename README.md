@@ -30,16 +30,16 @@
 
   <br/>
   
-  **Atualmente estou: **
+  **Atualmente estou:**
   - 🔭 Atuando em projetos com **Java, Spring Boot, Thymeleaf e HTMX**.
   - 💾 Trabalhando com persistência de dados agnóstica (Oracle, MySQL, PostgreSQL, H2).
   - 🎓 Aprofundando conhecimentos em Engenharia de Software, Java (e suas tecnologias), Node.js e TypeScript.
 
   ---
 
-  ### 📊 Meu git streak:
+### 📊 Meu git streak:
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasbss2&theme=dracula&hide_border=true" alt="git streak" />
+    <img src="https://git-hub-streak-stats.vercel.app/?user=lucasbss2&theme=dracula&hide_border=true" alt="git streak" />
   </p>
   
   <div align="center"> 
