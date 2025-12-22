@@ -47,10 +47,10 @@
 
   ---
 
-  ### 📊 Meu git streak:
- <p align="center">
-    <img src="https://git-hub-streak-stats.vercel.app/?user=lucasbss2&theme=dracula&hide_border=true" alt="git streak" />
-  </p>
+### 🐍 Minhas Contribuições (Snake Game)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lucasbss2/lucasbss2/output/github-contribution-grid-snake.svg" />
+</div>
   <div align="center"> 
     <a href="https://www.linkedin.com/in/lucas-borges-26b53b273/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
