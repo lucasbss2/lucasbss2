@@ -48,8 +48,8 @@
   ---
 
   ### 📊 Meu git streak:
-  <p align="center">
-    <img src="https://git-hub-streak-stats.vercel.app/?user=lucasbss2&theme=dracula&hide_border=true" alt="git streak" />
+ <p align="center">
+    <img src="https://streak-stats.jonasusa.dev/?user=lucasbss2&theme=dracula&hide_border=true" alt="git streak" />
   </p>
   
   <div align="center"> 
