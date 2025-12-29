@@ -1,8 +1,8 @@
 <div align="center">
   
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucasbss2&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbss2&layout=compact&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucasbss2&show_icons=true&theme=dracula&count_private=true&t=123"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbss2&layout=compact&theme=dracula&t=123"/>
 </div>
 
   # Olá, meu nome é Lucas! 👋
