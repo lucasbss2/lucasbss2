@@ -1,10 +1,9 @@
 <div align="center">
   
 <div align="center">
-  <img height="180" src="https://meu-readme-stats-teal.vercel.app/api?username=lucasbss2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache=reset"/>
-  <img height="180" src="https://meu-readme-stats-teal.vercel.app/api/top-langs/?username=lucasbss2&layout=compact&theme=dracula"/>
+  <img height="180" src="https://meu-readme-stats-teal.vercel.app/api?username=lucasbss2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=final"/>
+  <img height="180" src="https://meu-readme-stats-teal.vercel.app/api/top-langs/?username=lucasbss2&layout=compact&theme=dracula&count_private=true&include_all_commits=true&v=final"/>
 </div>
-
   # Olá, meu nome é Lucas! 👋
   
   ### ☕ Desenvolvedor FullStack | Foco em Back-end & Java
