@@ -9,7 +9,7 @@
   
   ### ☕ Desenvolvedor FullStack | Foco em Back-end & Java
   
-  Estudante de Pós-graduação em **Engenharia de Software**!
+  Pós-graduado em **Engenharia de Software**!
 
   <br/>
   
