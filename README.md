@@ -14,9 +14,9 @@
   <br/>
   
   **Atualmente estou:**
-  - 🔭 Atuando em projetos com **Java, Spring Boot, Thymeleaf e HTMX**.
+  - 🔭 Atuando em projetos com **Java, Spring Boot, Thymeleaf, HTMX e React!**.
   - 💾 Trabalhando com persistência de dados agnóstica (Oracle, MySQL, PostgreSQL, H2).
-  - 🎓 Aprofundando conhecimentos em Engenharia de Software, Java, Node.js e TypeScript.
+  - 🎓 Aprofundando conhecimentos em Engenharia de Software, Java, Node.js, TypeScript e React.
 
   ---
 
