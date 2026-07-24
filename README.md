@@ -13,10 +13,10 @@
 
   <br/>
   
-  **Atualmente estou:**
-  - 🔭 Atuando em projetos com **Java, Spring Boot, Thymeleaf, HTMX e React!**.
-  - 💾 Trabalhando com persistência de dados agnóstica (Oracle, MySQL, PostgreSQL, H2).
-  - 🎓 Aprofundando conhecimentos em Engenharia de Software, Java, Node.js, TypeScript e React.
+  **Atualmente:**
+- 🔭 Atuo no desenvolvimento e manutenção de aplicações corporativas com **Java, Spring Boot, Thymeleaf, HTMX e React**.
+- 💾 Trabalho com **JPA/Hibernate** e bancos relacionais como **Oracle, MySQL, PostgreSQL e H2**.
+- 🔐 Desenvolvo APIs REST, regras de negócio e recursos de autenticação e autorização com **Spring Security, OAuth2 e JWT**.
 
   ---
 
