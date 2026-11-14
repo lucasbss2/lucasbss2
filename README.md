@@ -12,7 +12,7 @@ Pós-graduado em **Engenharia de Software**
 
 ---
 
-## ## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
 - ☕ Atuo no **desenvolvimento e manutenção de aplicações corporativas**, com foco em **Java e Spring Boot**, implementando APIs REST, regras de negócio e integrações entre sistemas.
 - 🔐 Trabalho com **Spring Security, OAuth2 e JWT**, desenvolvendo recursos de autenticação e autorização.
