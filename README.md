@@ -12,13 +12,14 @@ Pós-graduado em **Engenharia de Software**
 
 ---
 
-## 👨‍💻 Sobre mim
+## ## 👨‍💻 Sobre mim
 
-- 🔭 Atuo no desenvolvimento e manutenção de aplicações corporativas com **Java, Spring Boot, Thymeleaf, HTMX e React**.
-- 💾 Trabalho com **JPA/Hibernate** e bancos relacionais como **Oracle, MySQL, PostgreSQL e H2**.
-- 🔐 Desenvolvo APIs REST, regras de negócio e recursos de autenticação e autorização com **Spring Security, OAuth2 e JWT**.
-- 🛠️ Também utilizo **Git, Maven, Docker, Flyway e OpenAPI** no desenvolvimento e manutenção de aplicações.
-- ☁️ Possuo experiência com integrações em nuvem e contato profissional com **Kafka, RabbitMQ, Terraform, AWS S3 e Testcontainers**.
+- ☕ Atuo no **desenvolvimento e manutenção de aplicações corporativas**, com foco em **Java e Spring Boot**, implementando APIs REST, regras de negócio e integrações entre sistemas.
+- 🔐 Trabalho com **Spring Security, OAuth2 e JWT**, desenvolvendo recursos de autenticação e autorização.
+- 💾 Possuo experiência com **JPA/Hibernate** e bancos de dados relacionais, incluindo **PostgreSQL, MySQL, Oracle e H2**.
+- 🌐 Também atuo no desenvolvimento frontend com **React, TypeScript, Thymeleaf e HTMX**, complementando minha experiência backend.
+- 🛠️ Utilizo **Git, Maven, Docker, Flyway e OpenAPI/Swagger**, além de possuir experiência com **Oracle Cloud Infrastructure (OCI)**.
+- ☁️ Tenho contato profissional com **Kafka, RabbitMQ, Terraform, AWS S3, Testcontainers e Vitest**.
 
 ---
 
